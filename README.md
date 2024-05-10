@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Niteeshgoud
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Java With Full stack
+- 🌱I'm skilled in Java With Full stack
 - 📫 How to reach me insta Id:@niteeshgoud_official
 
 <!---
