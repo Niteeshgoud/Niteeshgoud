@@ -1,9 +1,9 @@
-- 👋 Hi, I’m @Niteeshgoud
-- 👀 I’m interested in Web Development
-- 🌱I'm skilled in Java With Full stack
-- 📫 How to reach me insta Id:@niteeshgoud_official
 
-<!---
-Niteeshgoud/Niteeshgoud is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+👋 Hi, I'm Niteesh Chelimela, a Computer Science student at Anurag University (2025 graduate)
+💻 Passionate about Java, Python, Full Stack Development, and Data Analytics
+🌱 Currently learning Spring Boot and building Java-based web apps
+🔧 Skilled in SQL, MongoDB, Streamlit, and Google Cloud
+📊 Exploring Data Science, Cloud, and scalable web applications
+🚀 Projects: Movie Recommendation System, Sudoku Solver, Gesture Controller
+🌐 Portfolio: niteeshchelimela.netlify.app
+📫 Let's connect: LinkedIn
